@@ -1,0 +1,40 @@
+Info: DeliveryProcess:Fluxo de alterações no CMS Plone: 170 mini seconds publishing element
+Info: DeliveryProcess:Fluxo de alterações no CMS Plone: 15 mini seconds publishing process specific layout data
+Info: Task:consumir_conteudo: 21 mini seconds publishing element
+Info: TaskDescriptor:consumir_conteudo: 13 mini seconds publishing element
+Info: Role:consumidor: 78 mini seconds publishing element
+Info: RoleDescriptor:consumidor: 11 mini seconds publishing element
+Info: Role:produtor: 61 mini seconds publishing element
+Info: RoleDescriptor:produtor: 10 mini seconds publishing element
+Info: Artifact:conteudo_consumido: 20 mini seconds publishing element
+Info: WorkProductDescriptor:conteudo_consumido: 10 mini seconds publishing element
+Info: Task:identificar_problema: 18 mini seconds publishing element
+Info: TaskDescriptor:identificar_problema: 17 mini seconds publishing element
+Info: Artifact:problema: 15 mini seconds publishing element
+Info: WorkProductDescriptor:problema: 21 mini seconds publishing element
+Info: Task:requisitar_alteracao: 24 mini seconds publishing element
+Info: TaskDescriptor:requisitar_alteracao: 8 mini seconds publishing element
+Info: Deliverable:requisicao_de_mudanca: 18 mini seconds publishing element
+Info: WorkProductDescriptor:requisicao_de_mudanca: 12 mini seconds publishing element
+Info: Task:realizar_modificacoes: 19 mini seconds publishing element
+Info: TaskDescriptor:realizar_modificacoes: 15 mini seconds publishing element
+Info: Role:produtor: 78 mini seconds publishing element
+Info: RoleDescriptor:produtor: 10 mini seconds publishing element
+Info: Role:administrador: 29 mini seconds publishing element
+Info: RoleDescriptor:administrador: 11 mini seconds publishing element
+Info: Artifact:modificacao_realizada: 16 mini seconds publishing element
+Info: WorkProductDescriptor:modificacao_realizada: 13 mini seconds publishing element
+Info: Task:entregar_modificacoes: 21 mini seconds publishing element
+Info: TaskDescriptor:entregar_modificacoes: 22 mini seconds publishing element
+Info: Deliverable:modificacao_entregue: 20 mini seconds publishing element
+Info: WorkProductDescriptor:modificacao_entregue: 9 mini seconds publishing element
+Info: RoleSet:consumidor: 19 mini seconds publishing element
+Info: RoleSet:produtor: 13 mini seconds publishing element
+Info: RoleSet:administrador: 11 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 10 mini seconds publishing element
+Info: CustomCategory:Tasks: 9 mini seconds publishing element
+Info: CustomCategory:Roles: 11 mini seconds publishing element
+Info: CustomCategory:Work Products: 8 mini seconds publishing element
+Info: CustomCategory:Processes: 9 mini seconds publishing element
+Info: RoleSet:usuario: 14 mini seconds publishing element
+Info: : Publishing time: 0 minutes 1 seconds
